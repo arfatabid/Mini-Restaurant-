@@ -13,11 +13,11 @@ A simple Python-based Restaurant Management System that allows customers to view
 # 🛠️ Technologies Used
 
 Python 
-Standard libraries only (no external dependencies)
+Standard 
+libraries only (no external dependencies)
 
 # 🚀 How to Run
 
-1. Clone this repository: 
-
+1. Clone this repository: https://github.com/arfatabid/Mini-Restaurant-.git
 2. Run the script: python restaurant.py
 3. Follow the on-screen instructions to place an order and generate the bill.
